@@ -32,6 +32,6 @@ Tài liệu này bao gồm việc thiết kế cơ sở dữ liệu được v�
 Bạn có thể import CSDL này vào MySQL bằng cách import [file sql.](https://github.com/tungtsdev96/Quan-ly-thu-vien/blob/master/T%C3%A0i%20li%E1%BB%87u/database/DB.sql)
 
 ## Source code
-Phần mềm này được viết bằng Java Swing chạy trên Desktop. Và được viết dựa theo mô hình MVC.
+Phần mềm này được viết bằng Java Swing chạy trên Desktop. Và được viết dựa theo mô hình MVC.
 
 Tuy nhiên dựa vào thiết kế trên chúng ta hoàn toàn có thể tạo một hệ thống quản lý thư viện chạy trên nền tảng web hoặc mobile theo mô hình client - server.
