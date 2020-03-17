@@ -31,7 +31,7 @@ Bao gồm việc giới thiệu mục đích chính của đề tài, mô tả t
 Tài liệu này mô tả rõ việc thiết kế chi tiết cho các phần mềm từ việc phân tích các use case thông qua biểu đồ trình tự, thiết kế giao diện, thiết kế chi tiết lớp và thiết kế cơ sở dữ liệu cho phần mềm.
 
 ### 3. UML
-
+UML trong tài liệu được vẽ trên phần mềm [astah](https://astah.net/downloads/)
 
 ### [4. DATABASE](https://github.com/tungtsdev96/Quan-ly-thu-vien/tree/master/T%C3%A0i%20li%E1%BB%87u/database)
 Tài liệu này bao gồm việc thiết kế cơ sở dữ liệu được vẽ bằng MySQL Workbench. 
