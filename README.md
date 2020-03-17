@@ -1,4 +1,4 @@
-# Quản lý thư viện
+# Quản lý thư viện
 Bài tập lớn môn học Thiết kế xây dựng phần mềm - Viện CNTT&TT trường Đại học Bách Khoa Hà Nội. Nội dung bao gồm tài liệu thiết kế và source code.
 
 ## Nhóm 28: 
