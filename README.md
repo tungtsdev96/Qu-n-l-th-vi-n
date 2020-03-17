@@ -6,7 +6,6 @@ Bài tập lớn môn học Thiết kế xây dựng phần mềm - Viện CNTT&
 2. Lê Thanh Tùng
 3. Nguyễn Thanh Tùng
 
-
 ## Biểu đồ usecase tổng quan
 ![alt](https://github.com/tungtsdev96/Quan-ly-thu-vien/blob/master/T%C3%A0i%20li%E1%BB%87u/UML/usecase/UseCase%20T%E1%BB%95ng%20quan.png?raw=true)
 
@@ -14,9 +13,16 @@ Bài tập lớn môn học Thiết kế xây dựng phần mềm - Viện CNTT&
 ![alt](https://github.com/tungtsdev96/Quan-ly-thu-vien/blob/master/T%C3%A0i%20li%E1%BB%87u/database/DBDiagram.png?raw=true)
 
 ## Video demo các luồng nghiệp vụ chính
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eTidMgGxSA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+   <a href="https://www.youtube.com/embed/eTidMgGxSA0">
+      <img 
+        src="https://img.youtube.com/vi/eTidMgGxSA0/0.jpg" 
+        alt="Everything Is AWESOME" 
+        style="width:100%;">
+   </a>
+</div>
 
-## [Tài liệu thiết kế] (https://github.com/tungtsdev96/Quan-ly-thu-vien/tree/master/T%C3%A0i%20li%E1%BB%87u)
+## [Tài liệu thiết kế](https://github.com/tungtsdev96/Quan-ly-thu-vien/tree/master/T%C3%A0i%20li%E1%BB%87u)
 ### 1. Phân tích yêu cầu: 
 Bao gồm việc giới thiệu mục đích chính của đề tài, mô tả tổng quan về chức năng, các luồng nghiệp vụ chính và một số đặc tả chức năng cơ bản của phần mềm.
 
